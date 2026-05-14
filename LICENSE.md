@@ -1,4 +1,4 @@
-# 
+# high-frequency dex sniper bot Plugin | rug-pull-detection + token-swapping offers the most advanced dex sniper bot, with rug-pull-detection and token-swapping. Ideal for
 
 
 
